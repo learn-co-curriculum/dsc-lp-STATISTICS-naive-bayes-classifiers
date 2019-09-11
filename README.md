@@ -68,9 +68,10 @@ It is recommended that students attempt these labs before class, but they can re
 #### Learning goals for this lesson:
 
 
-* Students will be able to apply Bayes Theorem to a word problem.
-* Students will be able to compare and contrast Bayes Classifiers including Gaussian Naive Bayes and Bernoulli Naive Bayes.
-* Students will be able to explain python code for implementing a Naive Bayes Classifier.
+* Students will be able to explain how to implement a Naive Bayes Classifier for document classification.
+* Students will be able to explain the concept of Laplacian smoothing.
+* Students will be able to explain a bag of words representation.
+* Students will be able to create a bag of words representation from a text document.
 
 
 #### Relevant learning goals from Airtable: 
